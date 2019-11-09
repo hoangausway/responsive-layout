@@ -5,7 +5,9 @@ Make a web page responsive is not trivial task. Even with the help of Grid and F
 
 I found that Matt Holland gave a how-to with super explanation in his article ["Build a Responsive, Modern Dashboard Layout With CSS Grid and Flexbox"](https://medium.com/better-programming/build-a-responsive-modern-dashboard-layout-with-css-grid-and-flexbox-bd343776a97e).
 
-In the article, Matt uses traditional CSS with jQuery. I would like to give a try with styled-components and React.
+In the article, Matt uses traditional **CSS** with **jQuery**.
+
+We will give it a try with **styled-components** and **React**.
 
 For easy tracking the concepts explaining in Matt's article, I keep all styling attributes the same. Just do "translate" them to styled-component "language".
 
