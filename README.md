@@ -14,11 +14,11 @@ grid, flexbox, auto-fit, column-count, column-break-inside, transform
 
 ## Step 1: Generic, responsive layout with header, main, footer and side sections.
 
-## Step 2: Add responsive grid introduction cards in main
+## Step 2: Add responsive grid introduction cards in main.
 
-## Step 3: Add responsive cards with dynamic heights
+## Step 3: Add responsive cards with dynamic heights.
 
-## Step 4: Mobile-first. Making side nav slidable on mobile devices
+## Step 4: Mobile-first. Making side nav slidable on mobile devices.
 
 ## Step 5: Javascript. Click to show/hide side nav.
 
